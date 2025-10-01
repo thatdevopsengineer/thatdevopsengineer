@@ -114,6 +114,7 @@ I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain
 ### ✍ Recent Medium Blogs
 
 <!-- MEDIUM-Blogs -->
+- [Stop Depending on DevOps Engineers: Deploy Production-Ready MERN Apps Yourself!](https://medium.com/@dev.daoudhussain/stop-depending-on-devops-engineers-deploy-production-ready-mern-apps-yourself-ec855112828f)
 - [Docker: An Ultimate guide to Containerization!](https://medium.com/@dev.daoudhussain/docker-an-ultimate-guide-to-containerization-4f9b7cc66b4f)
 - [Building a Cloud-Native Resource Monitoring App with Python on Kubernetes!](https://medium.com/@dev.daoudhussain/building-a-cloud-native-resource-monitoring-app-with-python-on-kubernetes-bcf3ce3bf1cd)
 - [Monitoring with Grafana, Promtail, and Loki: A Complete Guide.](https://medium.com/@dev.daoudhussain/monitoring-with-grafana-promtail-and-loki-a-complete-guide-7a3284ca6fdc)
