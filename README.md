@@ -12,9 +12,9 @@
 I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps** & **Cloud Engineer** at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a> with **2+ years** of experience in **cloud infrastructure**, **automation**, and **scalable** deployments. I enjoy solving real-world problems by ensuring applications are **reliable**, **cost-efficient**, and **production-ready** across multiple environments (dev, staging, prod).  
 
 - 🔭 Currently working on **server migrations**, **multi-cloud deployments (AWS, GCP, Azure, Hetzner, Contabo)**, and **zero-downtime** deployments. 
-- 🌱 Always passionate about **cloud-native technologies**, **infrastructure as code**, and **container orchestration**. 
+- 🌱 Always passionate about **cloud-native technologies**, **infrastructure as code**, **networking** and **container orchestration**. 
 - 👯 Open to collaborating on **cloud projects**, **automation**, **community work** and **open-source contributions**. 
-- 💬 Ask me about **python, cloud architecture, DevOps, infrastructure automation**, and **system design**.  
+- 💬 Ask me about **python**, **cloud architecture**, **networking**, **DevOps**, **infrastructure automation**, and **system design**.  
 - ⚡ **Fun fact**: I love discussing about **cricket** and creating complex **system Designs** ensuring **zero-downtime**.  
 - 📄 Want to **automate your SDLC** and design a **scalable system**? Dowload my <a href="https://daoudhussain.netlify.app/Daoud's%20DevOps%20Resume.pdf" target="_blank"><b>Resume</b></a> here.
 
