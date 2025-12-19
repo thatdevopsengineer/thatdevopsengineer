@@ -9,14 +9,14 @@
 <div align="left" >
 <img align="right"  height="270" width="280" src="Images/coding-boy.gif" > <br>
 
-I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps** & **Cloud Engineer** at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a> with **2+ years** of experience in **cloud infrastructure**, **automation**, and **scalable** deployments. I enjoy solving real-world problems by ensuring applications are **reliable**, **cost-efficient**, and **production-ready** across multiple environments (dev, staging, prod).  
+I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps** & **Cloud Engineer** at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a> with **2+ years** of experience in **cloud infrastructure**, **automation**, and **scalable** deployments. I enjoy solving real-world problems by ensuring applications are **reliable**, **cost-efficient**, and **production-ready** across multiple environments (dev, staging, prod).  
 
 - 🔭 Currently working on **server migrations**, **multi-cloud deployments (AWS, GCP, Azure, Hetzner, Contabo)**, and **zero-downtime** deployments. 
 - 🌱 Always passionate about **cloud-native technologies**, **infrastructure as code**, **networking** and **container orchestration**. 
 - 👯 Open to collaborating on **cloud projects**, **automation**, **community work** and **open-source contributions**. 
 - 💬 Ask me about **python**, **cloud architecture**, **networking**, **DevOps**, **infrastructure automation**, and **system design**.  
 - ⚡ **Fun fact**: I love discussing about **cricket** and creating complex **system Designs** ensuring **zero-downtime**.  
-- 📄 Want to **automate your SDLC** and design a **scalable system**? Dowload my <a href="https://daoudhussain.netlify.app/Daoud's%20DevOps%20Resume.pdf" target="_blank"><b>Resume</b></a> here.
+- 📄 Want to **automate your SDLC** and design a **scalable system**? Dowload my <a href="https://thatdevopsengineer.com/Daoud's%20DevOps%20Resume.pdf" target="_blank"><b>Resume</b></a> here.
 
 </div>
 
@@ -25,11 +25,11 @@ I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain
 <!--Social Media Links!-->
 <div align="left">
 <h3> • <img src="Images/shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
-<a href = "https://www.linkedin.com/in/daoud-hussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/thatdevopsengineer/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://hub.docker.com/repositories/daoudhussaindev"><img src="https://img.icons8.com/fluent/48/000000/docker.png"/></a>
-<a href = "https://daoudhussain.netlify.app/"><img width="45" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png"/></a>
+<a href = "https://thatdevopsengineer.com/"><img width="45" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png"/></a>
 <a href = "https://www.instagram.com/daoud_huxxain/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://medium.com/@dev.daoudhussain"><img width="50" src="https://img.icons8.com/?size=100&id=GlEHSV1RF10y&format=png&color=000000"/></a>
+<a href = "https://medium.com/@thatdevopsengineer"><img width="50" src="https://img.icons8.com/?size=100&id=GlEHSV1RF10y&format=png&color=000000"/></a>
 <a href = "https://wa.me/923483016704"><img width="45" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"/></a>
 
 
@@ -115,11 +115,11 @@ I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain
 ### ✍ Recent Medium Blogs
 
 <!-- MEDIUM-Blogs -->
-- [Stop Depending on DevOps Engineers: Deploy Production-Ready MERN Apps Yourself!](https://medium.com/@dev.daoudhussain/stop-depending-on-devops-engineers-deploy-production-ready-mern-apps-yourself-ec855112828f)
-- [Docker: An Ultimate guide to Containerization!](https://medium.com/@dev.daoudhussain/docker-an-ultimate-guide-to-containerization-4f9b7cc66b4f)
+- [Stop Depending on DevOps Engineers: Deploy Production-Ready MERN Apps Yourself!](https://medium.com/@thatdevopsengineer/stop-depending-on-devops-engineers-deploy-production-ready-mern-apps-yourself-ec855112828f)
+- [Docker: An Ultimate guide to Containerization!](https://medium.com/@thatdevopsengineer/docker-an-ultimate-guide-to-containerization-4f9b7cc66b4f)
 - [Building a Cloud-Native Resource Monitoring App with Python on Kubernetes!](https://medium.com/@dev.daoudhussain/building-a-cloud-native-resource-monitoring-app-with-python-on-kubernetes-bcf3ce3bf1cd)
-- [Monitoring with Grafana, Promtail, and Loki: A Complete Guide.](https://medium.com/@dev.daoudhussain/monitoring-with-grafana-promtail-and-loki-a-complete-guide-7a3284ca6fdc)
-- [From Zero to K8s Hero: A Beginner’s Journey into Kubernetes](https://medium.com/@dev.daoudhussain/from-zero-to-k8s-hero-a-beginners-journey-into-kubernetes-035b65c4c8f7)
+- [Monitoring with Grafana, Promtail, and Loki: A Complete Guide.](https://medium.com/@thatdevopsengineer/monitoring-with-grafana-promtail-and-loki-a-complete-guide-7a3284ca6fdc)
+- [From Zero to K8s Hero: A Beginner’s Journey into Kubernetes](https://medium.com/@thatdevopsengineer/from-zero-to-k8s-hero-a-beginners-journey-into-kubernetes-035b65c4c8f7)
 
 </div>
 
@@ -139,7 +139,7 @@ I'm <a href="https://daoudhussain.netlify.app/" target="_blank"><b>Daoud-Hussain
 
 #
 
-Want to achieve **zero downtime**, **faster** deployments, **auto-scaling**, enhanced **reliability** in your infrastructure, and an **improved** software development life cycle? Drop me an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
+Want to achieve **zero downtime**, **faster** deployments, **auto**-scaling, **scablabe** system designs, and an **automated** software development life cycle? Drop me an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatt-server-guy&label=Profile%20views&color=0969da&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
