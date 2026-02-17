@@ -69,7 +69,6 @@ I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="35" height="35"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="azure" width="35" height="35" />  
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="35" height="35"/>  
-<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" alt="digital-occean" title="digital-occean" width="35" height="35" />  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="35" height="35"/> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="35" height="35"/>  
 <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" title="argocd" width="35" height="35"/>  
