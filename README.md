@@ -9,9 +9,9 @@
 <div align="left" >
 <img align="right"  height="270" width="280" src="Images/coding-boy.gif" > <br>
 
-I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps** & **Cloud Engineer** at <a href="https://vizzwebsolutions.com/" target="_blank"><b>Vizz Web Solutions</b></a> with **2+ years** of experience in **cloud infrastructure**, **automation**, and **scalable** deployments. I enjoy solving real-world problems by ensuring applications are **reliable**, **cost-efficient**, and **production-ready** across multiple environments (dev, staging, prod).  
+I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</b></a>. A **DevOps** & **Infrastructure Engineer** at <a href="https://betacodespk.com/" target="_blank"><b>BetaCodes</b></a> with **2+ years** of experience in **cloud infrastructure**, **automation**, and **scalable** deployments. I enjoy solving real-world problems by ensuring applications are **reliable**, **cost-efficient**, and **production-ready** across multiple environments (dev, staging, prod).  
 
-- 🔭 Currently working on **server migrations**, **multi-cloud deployments (AWS, GCP, Azure, Hetzner, Contabo)**, and **zero-downtime** deployments. 
+- 🔭 Currently working on **kubernetes deployments** on bare-metals, **ArgoCD (GitOps)**, and **infrasture** management. 
 - 🌱 Always passionate about **cloud-native technologies**, **infrastructure as code**, **networking** and **container orchestration**. 
 - 👯 Open to collaborating on **cloud projects**, **automation**, **community work** and **open-source contributions**. 
 - 💬 Ask me about **python**, **cloud architecture**, **networking**, **DevOps**, **infrastructure automation**, and **system design**.  
@@ -41,16 +41,9 @@ I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</
 
 <div align="left">
   
-<!--Github stats!-->
-  <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 
-<!--[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F35&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=0,000000,130F35&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain) !-->
 
-<a href="https://github.com/thatdevopsengineer">
-<!--   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=thatdevopsengineer&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F35&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatdevopsengineer&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F35&hide_border=true&show_icons=true"/>
- -->
-  
+  <!--
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=thatdevopsengineer&title_color=ffffff&icon_color=0969da&text_color=fff&bg_color=ffffff,000000,2234AE&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatdevopsengineer&layout=compact&langs_count=7&title_color=ffffff&icon_color=0969da&text_color=fff&bg_color=ffffff,000000,2234AE&hide_border=true&show_icons=true"/>
   
@@ -64,7 +57,6 @@ I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</
 
 </div>
 
-##
 
 <div align="left">
   <!--Used Languages and tools!-->
@@ -80,6 +72,7 @@ I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</
 <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" alt="digital-occean" title="digital-occean" width="35" height="35" />  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="35" height="35"/> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="35" height="35"/>  
+<img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" title="argocd" width="35" height="35"/>  
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" title="helm" width="35" height="35" />  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="35" height="35"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" title="gitlab" width="35" height="35"/>  
@@ -115,9 +108,9 @@ I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</
 ### ✍ Recent Medium Blogs
 
 <!-- MEDIUM-Blogs -->
+- [Everything You’ll Need to Be a DevOps Engineer](https://medium.com/@thatdevopsengineer/everything-youll-need-to-be-a-devops-engineer-031a118082bf)
 - [Stop Depending on DevOps Engineers: Deploy Production-Ready MERN Apps Yourself!](https://medium.com/@thatdevopsengineer/stop-depending-on-devops-engineers-deploy-production-ready-mern-apps-yourself-ec855112828f)
 - [Docker: An Ultimate guide to Containerization!](https://medium.com/@thatdevopsengineer/docker-an-ultimate-guide-to-containerization-4f9b7cc66b4f)
-- [Building a Cloud-Native Resource Monitoring App with Python on Kubernetes!](https://medium.com/@dev.daoudhussain/building-a-cloud-native-resource-monitoring-app-with-python-on-kubernetes-bcf3ce3bf1cd)
 - [Monitoring with Grafana, Promtail, and Loki: A Complete Guide.](https://medium.com/@thatdevopsengineer/monitoring-with-grafana-promtail-and-loki-a-complete-guide-7a3284ca6fdc)
 - [From Zero to K8s Hero: A Beginner’s Journey into Kubernetes](https://medium.com/@thatdevopsengineer/from-zero-to-k8s-hero-a-beginners-journey-into-kubernetes-035b65c4c8f7)
 
@@ -139,7 +132,7 @@ I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain</
 
 #
 
-Want to achieve **zero downtime**, **faster** deployments, **auto**-scaling, **scablabe** system designs, and an **automated** software development life cycle? Drop me an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
+Want to achieve **zero downtime**, **scablabe** system designs, and an **automated** software development life cycle? Drop me an email at <a href="mailto:daoudhussaindevops@gmail.com">daoudhussaindevops@gmail.com</a>. 
 <!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatt-server-guy&label=Profile%20views&color=0969da&style=flat" alt="Daoud-Hussain" /> </p>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0e75b6&width=500&lines=Drop+a+text+to+hire+for+any+project...">     -->
