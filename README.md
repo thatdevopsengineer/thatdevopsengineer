@@ -6,9 +6,9 @@
 <div align="left" >
 <img align="right"  height="270" width="280" src="Images/coding-boy.gif" > <br>
 
-I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain </b></a>. A **DevOps** & **Infrastructure Engineer** at <a href="https://betacodespk.com/" target="_blank"><b>BetaCodes</b></a> with **2+ years** of experience in **cloud infrastructure**, **automation**, and **scalable** deployments. I enjoy solving real-world problems by ensuring applications are **reliable**, **cost-efficient**, and **production-ready** across multiple environments (dev, staging, prod).
+I'm <a href="https://thatdevopsengineer.com/" target="_blank"><b>Daoud-Hussain </b></a>. A **DevOps Engineer** at <a href="https://www.linkedin.com/company/telenormicrofinancebanklimited/" target="_blank"><b>Easypaisa Digital Bank</b></a> with **2.5+ years** of experience in **cloud infrastructure**, **automation**, and **scalable** deployments. I enjoy solving real-world problems by ensuring applications are **reliable**, **cost-efficient**, and **production-ready** across multiple environments (dev, staging, prod).
 
-- 🔭 Currently working on **On-premises kubernetes** deployments, **ArgoCD (GitOps)**, and **infrasture** management.
+- 🔭 Currently working on **On-premises kubernetes** deployments, **ArgoCD (GitOps)**, and **infrastructure** management.
 - 🌱 Always passionate about **cloud-native technologies**, **infrastructure as code**, **networking** and **container orchestration**.
 - 👯 Open to collaborating on **cloud projects**, **automation**, **community work** and **open-source contributions**.
 - 💬 Ask me about **python**, **cloud architecture**, **networking**, **DevOps**, **infrastructure automation**, and **system design**.
